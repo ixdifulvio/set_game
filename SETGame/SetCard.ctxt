@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SetCard
+comment1.params=aColor\ aShape\ aFill\ aNumber
+comment1.target=SetCard(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getColor()
+comment3.params=
+comment3.target=int\ getShape()
+comment4.params=
+comment4.target=int\ getFill()
+comment5.params=
+comment5.target=int\ getNumber()
+comment6.params=g\ x\ y
+comment6.target=void\ draw(java.awt.Graphics,\ int,\ int)
+comment7.params=g\ x\ y
+comment7.target=void\ drawDiamond(java.awt.Graphics,\ int,\ int)
+comment8.params=g\ x\ y
+comment8.target=void\ drawRect(java.awt.Graphics,\ int,\ int)
+comment9.params=g\ x\ y
+comment9.target=void\ drawSquigly(java.awt.Graphics,\ int,\ int)
+numComments=10
